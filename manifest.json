@@ -1,7 +1,7 @@
 {
 	"id": "sample-plugin",
 	"name": "Line Count",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Add line count to status bar. Demo plugin created from Florian Ludwig tutorial - www.youtube.com/watch?v=AgXa03ZxJ88&t=792s",
 	"author": "John Palmgren, Florian Ludwig",
